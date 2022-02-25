@@ -9,7 +9,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-public class MailItemTest extends BasicTest {
+public class MealItemTest extends BasicTest {
 
 	private SoftAssert sa = new SoftAssert();
 
